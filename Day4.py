@@ -58,9 +58,23 @@
 # else:
 #     print("Not Eligible for Voting")
 #5
-n=4
-if n%3==0:
-    print('divisibile by 3')
+# n=4
+# if n%3==0:
+#     print('divisibile by 3')
+# else:
+#     print("not divisbile by 3")
+#5
+# n = 15   # you can change this value
+
+# if n % 3 == 0 and n % 5 == 0:
+#     print("Divisible by both 3 and 5")
+# else:
+#     print("Not divisible by both 3 and 5")
+#6
+a = 10
+b = 20
+
+if a > b:
+    print("a is bigger")
 else:
-    print("not divisbile by 3")
-    
+    print("b is bigger")
